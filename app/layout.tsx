@@ -3,7 +3,7 @@ import './css/styles.css'
 import './css/index.css'
 import './css/vendor.css'
 import type { Metadata } from "next";
-import GoogleAnalytics from "@/components/GoogleAnalytics";
+// import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Script from "next/script";
 
 export const metadata: Metadata = {
@@ -19,8 +19,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="min-h-screen font-poppins">
-        {process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS ? (
+      <body>
+        {/* {process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS ? (
           <GoogleAnalytics ga_id={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS} />
         ) : null}
         <Script
@@ -28,7 +28,7 @@ export default function RootLayout({
           strategy="afterInteractive"
           crossOrigin="anonymous"
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7989909386322234"
-        />
+        /> */}
         {children}
       </body>
     </html>
