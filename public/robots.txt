@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://randomizerwheel.cc
+
+# Sitemaps
+Sitemap: https://randomizerwheel.cc/sitemap.xml
