@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://randomizerwheel.cc
+Host: randomizerwheel.cc
 
 # Sitemaps
-Sitemap: https://randomizerwheel.cc/sitemap.xml
+Sitemap: randomizerwheel.cc/sitemap.xml

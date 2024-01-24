@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'randomizerwheel.netlify.app',
+  siteUrl: 'randomizerwheel.cc',
   generateRobotsTxt: true,
 };
