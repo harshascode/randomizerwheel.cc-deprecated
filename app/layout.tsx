@@ -10,8 +10,6 @@ export const metadata: Metadata = {
   title: "Randomizer Wheel - Random wheel",
   description:
     "Randomizer Wheel - Yes or no wheel",
-  viewport:
-    "width=device-width, initial-scale=1, maximum-scale=2, user-scalable=no",
 };
 
 export default function RootLayout({
