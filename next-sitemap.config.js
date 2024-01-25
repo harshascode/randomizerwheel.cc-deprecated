@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'randomizerwheel.cc',
+  siteUrl: 'https://randomizerwheel.cc',
   generateRobotsTxt: true,
 };

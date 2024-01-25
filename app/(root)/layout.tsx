@@ -1,6 +1,6 @@
 import React from "react";
 import Footer from "@/components/Footer";
-import Homepage from "@/components/Homepage";
+// import Homepage from "@/components/Homepage";
 // import Navbar from "@/components/Navbar";
 
 const layout = ({ children }: { children: React.ReactNode }) => {
@@ -8,7 +8,7 @@ const layout = ({ children }: { children: React.ReactNode }) => {
     <>
       {/* <Navbar /> */}
       {children}
-      <Homepage />
+      {/* <Homepage /> */}
       <Footer />
     </>
   );
