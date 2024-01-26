@@ -4,8 +4,8 @@ const page = () => {
     return (
         <div>
             <div id="app" />
-            <Script src="/script/vendor-letter1.js"></Script>
-            <Script src="/script/index-food-wheel.js"></Script>
+            <Script src="/script/vendor-country-randomizer-wheel.js"></Script>
+            <Script src="/script/index-random-nfl-team-wheel.js"></Script>
         </div>
     )
 }

@@ -5,7 +5,7 @@ const page = () => {
         <div>
             <div id="app" />
             <Script src="/script/vendor-letter1.js"></Script>
-            <Script src="/script/index-food-wheel.js"></Script>
+            <Script src="/script/index-country-randomizer-wheel.js"></Script>
         </div>
     )
 }
