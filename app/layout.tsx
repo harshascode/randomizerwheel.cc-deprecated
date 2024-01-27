@@ -9,7 +9,7 @@ import Script from "next/script";
 export const metadata: Metadata = {
   title: "Randomizer Wheel - Random wheel",
   description:
-    "Randomizer Wheel - Yes or no wheel",
+    "Randomizer Wheel - Yes or No wheel",
 };
 
 export default function RootLayout({
